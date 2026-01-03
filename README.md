@@ -1,4 +1,4 @@
-# my-personal-project-1st
+# first project
 this is my first repository;
 <br>
 auther-sajid khan
